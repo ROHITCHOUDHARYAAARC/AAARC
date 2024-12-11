@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **@ROHITCHOUDHARYAAARCc** 🌟
+I'm **@ROHITCHOUDHARYAAARC** 🌟
 
 - 👨‍💻 I’m interested in **programming**, exploring **problem-solving techniques**, and building exciting projects!
 - 📚 I’m currently learning **C language** and sharpening my skills in **algorithm design**.
